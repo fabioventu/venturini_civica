@@ -1,0 +1,27 @@
+body {
+  background-color:white;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family:fantasy;
+  font-size: 18px;
+}
+
+h4 {
+  font-family: fantasy;
+  font-size: 18px;
+}
+li {
+  font-family: fantasy;
+  font-size: 18px;
+}
+
+.a {
+  font-family:fantasy;
+  font-size: 20px;
+}

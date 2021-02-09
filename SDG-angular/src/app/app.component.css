@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(230, 189, 10);
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: fantasy;
+  font-size: 50px;
+}
